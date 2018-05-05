@@ -1,0 +1,35 @@
+#titlebar {
+    background-color: dimgrey;
+}
+
+#head-1 {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+#section-1 {
+    width: 580px;
+    float: left;
+}
+
+#section-2 {
+    width: 580px;
+    float: right;
+}
+
+#navigation {
+    background-color: darkslategrey;
+}
+
+#index {
+    float: left;
+}
+
+#contact {
+    float: center;
+}
+
+#portfolio {
+    float: right;
+}
